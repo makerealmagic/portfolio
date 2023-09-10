@@ -1,0 +1,11 @@
+#rimage{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+#btn{
+    position: relative;
+    left: 300px;
+    background-color: red;
+}
