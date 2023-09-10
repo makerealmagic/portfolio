@@ -1,11 +1,38 @@
 #rimage{
-    width: 100px;
-    height: 100px;
+    width: 90px;
+    height: 90px;
     border-radius: 50%;
     cursor: pointer;
+    box-shadow: 3px 3px 10px black, 1px 1px 10px white ;
 }
-#btn{
-    position: relative;
-    left: 300px;
-    background-color: red;
+.con{
+    margin-top: 60px;
 }
+
+.bg{
+    border: 2px solid red;
+}
+.bag{
+    min-height: 650px;
+    background-color: rgb(240, 223, 227);
+}
+.img{
+    width: 250px;
+    height: 250px;
+    margin-top: 50px;
+}
+.bgd{
+    background-color: black;
+}
+.drkcng{
+    background-color: black;
+    color: white;
+}
+.whtcng{
+    background-color: grey;
+    color: black;
+}
+#drk{
+    cursor: pointer;
+}
+
